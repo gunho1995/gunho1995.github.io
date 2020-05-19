@@ -1,6 +1,6 @@
 
 ## Github Blog
-- 본 테마는 issue 또는 메일([snugyun01@gmail.com](snugyun01@gmail.com))로 공유 허락 받은 테마입니.
+- 본 테마는 issue 또는 메일([snugyun01@gmail.com](snugyun01@gmail.com))로 공유 허락 받은 테마입니다.
 
 ### Structure
 
