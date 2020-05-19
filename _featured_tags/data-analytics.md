@@ -4,5 +4,5 @@ title: Analytics
 slug: analytics
 category: data
 menu: false
-order: 11
+order: 2
 ---
