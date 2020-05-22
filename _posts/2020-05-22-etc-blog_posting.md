@@ -1,3 +1,14 @@
+---
+layout: post
+title: "맥과 윈도우에서 블로그 포스팅 시 에러"
+subtitle: "CRLF error"
+categories: ETC
+tags: 
+comments: true
+---
+
+
+
 나는 맥 OS와 윈도우 OS 모두 사용하여 포스팅을 한다.
 
 이 때 포스트 작성 후, add 작업을 거칠 때 항상 에러 메시지가 나타난다.
