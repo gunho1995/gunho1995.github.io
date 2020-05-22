@@ -28,7 +28,7 @@ CPU OPERATION에 비해, STORAGE와 MEMORY 처리 속도로 인해 Bottleneck �
 이를 해결하기 위해 활용할 수 있는 것이 Distributed System이다.
 
 
-##Distributed System
+## Distributed System
 
 Single Machine 에서 작업하지 않고, 200GB의 데이터를 가용한 다른 Machine과 함께 작업한다.
 

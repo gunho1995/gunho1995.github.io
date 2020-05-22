@@ -2,22 +2,23 @@
 layout: post
 title: "맥과 윈도우에서 블로그 포스팅 시 에러"
 subtitle: "CRLF error"
-categories: ETC
-tags: 
+categories: etc
+tags: tips
 comments: true
 ---
 
 
+# OS 별 Git Blog 포스팅
 
 나는 맥 OS와 윈도우 OS 모두 사용하여 포스팅을 한다.
 
 이 때 포스트 작성 후, add 작업을 거칠 때 항상 에러 메시지가 나타난다.
 
 
----
+```
 Warning : CRLF will be replaced by LF in some/file.file.
 The file will have its original line endings in your work directory
----
+```
 
 각 OS에서 문장의 끝을 나타낼 때 사용하는 기호가 다르기 때문에 발생하는 에러이다.
 
@@ -29,14 +30,14 @@ The file will have its original line endings in your work directory
 
 윈도우에서 작업하는 경우:
 
----
+```
 git config --global core.autocrlf true
----
+```
 
 맥에서 작업하는 경우:
 
----
+```
 git config --global core.autocrlf true input
----
+```
 
 을 적용해주면 된다.
