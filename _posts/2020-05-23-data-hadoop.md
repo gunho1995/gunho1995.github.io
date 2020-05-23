@@ -3,7 +3,7 @@ layout: post
 title: "Hadoop Ecosystem"
 subtitle: "Big Data Ecosystem"
 categories: data
-tags: Engineering
+tags: engineering
 comments: true
 ---
 
